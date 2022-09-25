@@ -87,20 +87,12 @@ p{
 }
  
 @media screen and (max-width: 990px) {
-    body{
-    
-    }
-
     .ul-lista{
         margin-left: 10px; 
     }
 }
 
 @media screen and (max-width: 900px) {
-    body{
-   
-    }
-
     .ul-lista{
         font-size: 16px;
     }
@@ -131,10 +123,6 @@ p{
 }
 
 @media screen and (max-width: 700px) {
-    body{
-      
-    }
-
     .ul-lista{
   display: none;
     }
@@ -165,10 +153,6 @@ p{
 }
 
 @media screen and (max-width: 550px){
-    body{
-      
-    }
-
     .container{
         display: flex;
         flex-direction: column;
@@ -232,10 +216,6 @@ p{
    }
 }
 @media screen and (max-width: 450px) {
-    body{
-       
-    }
-
     .ul-lista{
          display: none;
     }
