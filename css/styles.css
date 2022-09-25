@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400;1,600&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  text-decoration: none;  
+  color: #989D9C;
+}
+.ul-lista{
+    list-style: none;
+    color: #989D9C;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 24px;
+    
+    
+}
+
+.li-lista{
+    padding: 3px 15px 3px 15px;  
+}
+
+.bnt-login{
+    background-color: #665AE1;
+    padding: 3px 15px 3px 15px;
+    border-radius: 15px;
+    border: none;
+    font-size: 24px;
+    color: white; 
+}
+
+.container{
+    width: 100%;
+    height: 93.8vh;
+    display: flex;
+    align-items: center;
+    color: #686868;
+}
+
+.wecareimg{
+    
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+}
+
+img{
+    width: 568px;
+}
+
+.conteudo{
+    width: 50vw;
+    height: 50vh;
+    padding: 40px;
+}
+
+h1{
+    font-size: 80px;
+    margin: 0px 50px 5px 50px; 
+}
+
+h2{
+    font-size: 58px;
+    font-weight: 500;
+    margin: 0 0 0 50px;
+}
+
+p{
+    font-size: 1.2rem;
+    margin: 20px 0 50px 50px;
+    width: 80%;
+}
+
+.btn-explorar{
+    margin: 20px 0 0 50px;
+    background-color: #665AE1;
+    padding:10px 20px 10px 20px;
+    border-radius: 40px;
+    border: none;
+    font-size: 28px;
+    color: white; 
+}
